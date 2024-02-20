@@ -14,4 +14,4 @@ class Prediction_Output(BaseModel):
     prediction : list
 
 
-## this is donesaksaksnaksa 
+## this is donesaksak
