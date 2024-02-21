@@ -1,5 +1,5 @@
 # **Machine Learning API**
-![ml with api](.venv/ml_image.png)
+![ml with api](ml_image.png)
 
 ### **Description**
 
