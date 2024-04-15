@@ -9,6 +9,15 @@ In this project, an *API* was built in order to make predictions using a model o
 
 ![spaceship titanic](img/spaceShip.png)
 
+### **Table of contents**
+
+- [Contents](#contents)
+- [How to Install and Run the Project](#how-to-install-and-run-the-project)
+- [How to use the project](#how-to-use-the-project)
+- [Contributions](#contributions)
+- [Credits](#credits)
+- [Licence](#licence)
+
 ### **Contents**
 
 1. main.py
@@ -18,6 +27,8 @@ In this project, an *API* was built in order to make predictions using a model o
 5. Dockerfile
 6. requirements.txt
 7. .gitignore
+
+You can access the whole repository here...
 
 
 ### **How to Install and Run the Project**
@@ -32,6 +43,9 @@ The project must be run on Docker, therefore, it must be deployed on that platfo
 
 You can use any dataset in which the main purpose is to predict is a passenger would be transported or not. The format of the files could be *.csv*, *.xlm* or *.json*
 
+### **Contributions**
+
+I would like to you to encourage to contribute in any form to the project through this public repository. 
 
 ### **Credits**
 
