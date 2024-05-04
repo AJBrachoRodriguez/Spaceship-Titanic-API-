@@ -28,10 +28,11 @@ In this project, an *API* was built in order to make predictions using a model o
 
 The project must be run on Docker, therefore, it must be deployed on that platform executing the Dockerfile included in the repository. 
 
-
 ### **How to use the project**  📂
 
-You can use any dataset in which the main purpose is to predict is a passenger would be transported or not. The format of the files could be *.csv*, *.xlm* or *.json*
+You can download the dataset in the following link:
+
+https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv
 
 ### **Contributions**  ✍️
 
@@ -43,4 +44,4 @@ I would like to thank all the members of my team. Besides, I want to thank the s
 
 ### **Licence**  👮
 
-*GPL* Licence
+*MIT* Licence
